@@ -90,14 +90,9 @@ use for several days and remained stable.
 
 ## Screenshots
 
-The screenshots show the AFERIY P180 exposed as a separate ESPHome
-device in Home Assistant with live and read-only entities.
+The screenshot shows the AFERIY P180 exposed as a separate ESPHome device in Home Assistant with live and read-only entities.
 
-![AFERIY P180 in Home Assistant --- main
-entities](images/home-assistant-device-top.png)
-
-![AFERIY P180 in Home Assistant --- additional
-entities](images/home-assistant-device-bottom.png)
+![AFERIY P180 in Home Assistant](images/home-assistant-device.png)
 
 ## Important notes
 
